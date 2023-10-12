@@ -1,0 +1,163 @@
+* {
+   padding: 0;
+   margin: 0;
+
+}
+
+.Header{
+   color: white;
+   background-color: #1F2937;
+   justify-content: center;
+}
+.headertop {
+   display: flex;
+   justify-content: space-between;
+   margin-left: 200px;
+   margin-right: 100px;
+   padding-top: 10px;
+}
+.header-logo{
+   margin-top: 20px;
+}
+button{
+   margin-left: 200px;
+
+}
+
+ul li{
+   
+   margin:20px
+   
+}
+
+
+ul{
+   margin-right: 200px;
+   justify-content:space-between;
+   display:flex
+}
+.hbleft{
+   float: left;
+
+}
+.title {
+   font-size: 48px;
+   font-weight: extra bold;
+   color: #F9FAF8;
+   max-width: 444px;
+   margin-left: 200px;
+}
+.titlesub {
+   font-size: 18px;
+   color:#E5E7EB;
+   max-width: 444px;
+   margin-left: 200px;
+
+}
+
+img{
+   height: 155px;
+   width:400px;
+   margin-left: 200px;
+   margin: 20px;
+   
+
+}
+.Headerbody {
+   display:flex;
+   padding:100px;
+   justify-content: space-around;
+   
+}
+
+button {
+   background-color: #3882F6;
+   color: white;
+   padding: 5px 20px;
+   border-radius: 8px;
+   border:none;
+}
+.section2{
+   margin-bottom: 2px;
+}
+
+.h2 {
+   margin: 50px;
+   margin-left: 500px;
+   font-size: 36px;
+   font-weight: bolder;
+   color:#1F2937;
+   justify-content: center;
+}
+.boxes {
+   color: #1F2937;
+   font-size: 18px;
+   display: flex;
+   justify-content: center;
+   margin: 20px 50px 200px 200px;
+   gap:10px;
+   
+}
+.square {
+   width:200px;
+   height: 100px;
+   border:5px solid blue;
+   border-radius: 10px;
+   
+
+   
+   
+}
+
+.section3 {
+   background-color: #E5E7EB;
+   padding:200px;
+   display: flex;
+   flex-direction: column
+}
+.quote{
+   font-size: 36px;
+   font-style: Light italic;
+}
+
+.quote-author{
+   color:#1F2937;
+   font-weight: bold;
+   align-self:flex-end;
+}
+.section4{
+   padding: 55px 88px ;
+
+}
+.call-action{
+   background-color: #3882F6;
+   border-radius: 4px;
+   color:#E5E7EB;
+   display: flex;
+   padding:22px;
+   justify-content: space-around;
+
+}
+.call-action-button{
+   background-color: white;
+   color: white;
+   padding: 5px 20px;
+   border-radius: 8px;
+   border:2px solid white;
+
+}
+.footer{
+   background-color: #1F2937;
+   color:#F9FAF8;
+   padding:20px;
+   font-size: 8px;
+   text-align: center;
+}
+
+
+
+
+
+
+ 
+
